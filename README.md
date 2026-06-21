@@ -113,7 +113,7 @@ A full-stack EdTech platform inspired by modern learning management systems.
 
 ---
 
-# 📅 3D Contribution Calendar
+# 📅 Contribution Metrics By days
 
 <div align="center">
 
@@ -123,18 +123,17 @@ A full-stack EdTech platform inspired by modern learning management systems.
 
 ---
 
-# 📅 3D Contribution Calendar
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/anomus420/anomus420/main/profile-3d-contrib/profile-night-green.svg" width="100%" />
-</div>
-
----
 
 <!-- <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anomus420&theme=tokyo-night&hide_border=true"/>
+  <img src="https://raw.githubusercontent.com/anomus420/anomus420/main/profile-3d-contrib/profile-night-green.svg" width="100%" />
 </div> -->
+
 ---
+# 📅 3D Contribution Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anomus420&theme=tokyo-night&hide_border=true"/>
+</div> 
+
 
 # 🌐 Connect With Me
 
