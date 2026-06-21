@@ -1,6 +1,6 @@
 <div align="center">
-
-# Hi 👋, I'm Shivansh Singh
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header" width="100%"/>
+ Hi 👋 I'm SHIVANSH SINGH
 
 ### MERN Stack Developer • Competitive Programmer • AI Enthusiast
 
@@ -14,7 +14,7 @@
 
 🎓 B.Tech Computer Science Student
 
-💻 Passionate about Full Stack Development and Software Engineering
+💻  Full Stack Developer and Software Engineer
 
 🌱 Currently learning:
 
@@ -23,7 +23,7 @@
 - Backend Architecture
 - AI/ML
 
-🧠 Competitive Programmer with 400+ LeetCode problems solved
+🧠 Competitive Programmer with 450+ LeetCode problems solved
 
 🎯 Current Goal:
 
@@ -32,8 +32,8 @@
 - Build impactful AI-powered products
 
 ---
-
-## 🛠️ Tech Stack
+<div align="center">
+ 🛠️ Tech Stack
 
 ### Languages
 
@@ -64,7 +64,7 @@
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman,figma" />
 </p>
-
+</div>
 ---
 
 ## 📊 GitHub Statistics
@@ -118,7 +118,20 @@ A full-stack EdTech platform inspired by modern learning management systems.
 React • Node.js • Express • MongoDB
 
 ---
+## 📅 Isometric Commit Calendar and Contribution Graph
 
+<table>
+<tr>
+<td width="50%">
+<div align="center">
+<img src="./metrics.plugin.isocalendar.fullyear.svg" alt="Full-year isometric commit calendar" width="100%" />
+<p><sub><i>Updated daily via <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a></i></sub></p>
+</div>
+</td>
+</tr>
+</table>
+
+  
 ## 📈 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=anomus420&theme=tokyo-night&hide_border=true"/>
@@ -149,5 +162,5 @@ work.shivansh022@gmail.com
 ### Thanks for visiting my profile! 🚀
 
 ⭐ Feel free to explore my repositories and connect with me.
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 </div>
