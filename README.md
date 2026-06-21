@@ -131,11 +131,9 @@ A full-stack EdTech platform inspired by modern learning management systems.
 
 ---
 
-# 📈 Contribution Graph
-
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anomus420&theme=tokyo-night&hide_border=true"/>
-</div>
+</div> -->
 ---
 
 # 🌐 Connect With Me
