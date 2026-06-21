@@ -6,7 +6,7 @@
 
 ### MERN Stack Developer • Competitive Programmer • AI Enthusiast
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins\&size=24\&duration=3000\&pause=1000\&center=true\&vCenter=true\&width=800\&lines=450%2B+LeetCode+Problems+Solved;Full+Stack+Developer;Building+AI-Powered+Applications;Open+to+Internships+and+Opportunities)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins\&size=24\&duration=3000\&pause=1000\&color=ED8128\&center=true\&vCenter=true\&width=800\&lines=450%2B+LeetCode+Problems+Solved;Full+Stack+Developer;Building+AI-Powered+Applications;Open+to+Internships+and+Opportunities)](https://git.io/typing-svg)
 
 </div>
 
@@ -36,6 +36,28 @@
 ---
 
 
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anomus420&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anomus420&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=anomus420&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
 ## 🛠️ Tech Stack
 <div align="center">
 
@@ -58,28 +80,6 @@
 ### Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman,figma" />
-
-</div>
-
----
-
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anomus420&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anomus420&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=anomus420&theme=tokyonight&hide_border=true"/>
 
 </div>
 
