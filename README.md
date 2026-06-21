@@ -71,9 +71,9 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anomus420&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anomus420&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -83,7 +83,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=anomus420&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -91,7 +91,7 @@
 
 ## 🏆 Coding Achievements
 
-- ✅ 400+ LeetCode Problems Solved
+- ✅ 45 + leetcode DSA Problems Solved
 - ✅ 50+ GeeksforGeeks Problems Solved
 - ✅ Strong Foundation in DSA
 - ✅ Active GitHub Contributor
@@ -100,14 +100,6 @@
 
 ## 🚀 Featured Projects
 
-### 🌊 FloatChat
-
-AI-powered conversational interface for ARGO Ocean Data Discovery.
-
-**Tech Stack:**
-React • Streamlit • PostgreSQL • TimescaleDB • Groq API • RAG
-
----
 
 ### ♻️ Smart Waste Management System
 
@@ -129,7 +121,7 @@ React • Node.js • Express • MongoDB
 
 ## 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anomus420&theme=tokyo-night&hide_border=true"/>
 
 ---
 
@@ -138,13 +130,9 @@ React • Node.js • Express • MongoDB
 <p>
 
 💼 LinkedIn:
-YOUR_LINKEDIN_URL
-
+(https://www.linkedin.com/in/shivansh-singh-660197331/)
 📧 Email:
-YOUR_EMAIL
-
-🌍 Portfolio:
-YOUR_PORTFOLIO_URL
+work.shivansh022@gmail.com
 
 </p>
 
