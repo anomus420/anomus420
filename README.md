@@ -6,7 +6,7 @@
 
 ### MERN Stack Developer • Competitive Programmer • AI Enthusiast
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins\&size=24\&duration=3000\&pause=1000\&color=ED8128\&center=true\&vCenter=true\&width=800\&lines=450%2B+LeetCode+Problems+Solved;Full+Stack+Developer;Building+AI-Powered+Applications;Open+to+Internships+and+Opportunities)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins\&size=24\&duration=3000\&pause=1000\&color=FFFFFF\&center=true\&vCenter=true\&width=800\&lines=450%2B+LeetCode+Problems+Solved;Full+Stack+Developer;Building+AI-Powered+Applications;Open+to+Internships+and+Opportunities)](https://git.io/typing-svg)
 
 </div>
 
